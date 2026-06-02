@@ -3,6 +3,17 @@
     <channel>
         <title>Dictate</title>
         <item>
+            <title>1.1</title>
+            <pubDate>Tue, 02 Jun 2026 18:04:00 +0300</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate-1.1.dmg" length="7110875" type="application/octet-stream" sparkle:edSignature="0Bi8CRsKdPwNtPv+Az9/C55Z3MU6dEaQQCY4IJwkWmWWRjcT7zhdOQzWVgyUhw8/zv3q8bJ+LhH1W+bXhyt8CQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate2-1.delta" sparkle:deltaFrom="1" length="13254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="swJMsnEMDrzASVUQpw7PmrlWFE1ggvCWhJb83CRZSrr6HPChEs2FzvpZ+G9drwfPQOSzPLt7eQNuQ2QgLz6xAA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Tue, 02 Jun 2026 16:58:20 +0300</pubDate>
             <sparkle:version>1</sparkle:version>
