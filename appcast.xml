@@ -8,7 +8,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate-1.0.dmg" length="7095022" type="application/octet-stream" sparkle:edSignature="1J6tgSKInSfs+GBiI87uy5Z+KQQHjnvLG9InrSXejtlCF7zHC3j1M+Up4hqQoXwpnoVLR+xBssGFVzUzBm0bCw=="/>
+            <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate-1.0.dmg" length="7110880" type="application/octet-stream" sparkle:edSignature="BfHXDbttk+i2iRRex+F5teEnJ19l4biZGBI9QPOFCJo1fj4zsr7fO0ThO/h91iXHMLcIJMAOyL5BuqU4PbYcBQ=="/>
         </item>
     </channel>
 </rss>
