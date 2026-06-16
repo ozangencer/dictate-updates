@@ -3,6 +3,20 @@
     <channel>
         <title>Dictate</title>
         <item>
+            <title>1.3.1</title>
+            <pubDate>Tue, 16 Jun 2026 23:15:03 +0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate-1.3.1.dmg" length="10585838" type="application/octet-stream" sparkle:edSignature="6jtFDOXAO0Q4rno18XmDQcMYz40/b+0PL8wCUNHF9HP5uECRmvuultijSmgoXEWG+shh+JAa0YR6W4MJyA59Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate5-4.delta" sparkle:deltaFrom="4" length="456734" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="hJICHVPwB+b2ItS7l1E1A0Sa9vRkGjfVItnYig9+ppJMNXvwV9GgbiqqvkcHRWBsJquMz7dKiw4bzQ1MyHH2Bg=="/>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate5-3.delta" sparkle:deltaFrom="3" length="967610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="/EyZMh7uHM0sh3ULefbYnAuq5bIzAfAt33OUwl8tKCxPjNZN/c8KjpKR86+NoiSHkjMDXO/BnofRszWZo46VAQ=="/>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate5-2.delta" sparkle:deltaFrom="2" length="3302326" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="zLii1RMdf8aQRTXFvmtUHaCgkMClPWTHgng9My2j5U1Vwmwj4q4YCOl7nd+GIGgGS0KafsDj68UYN2gAZyw8Cg=="/>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate5-1.delta" sparkle:deltaFrom="1" length="3302798" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1RlUumv/ZYAER6jOFUul9teivh118iSJzA7KeZeVnY1+GE5KcQ3I+kMUOygFePqgJg6hYKBqPUnaFa7cirnZCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.3</title>
             <pubDate>Fri, 05 Jun 2026 21:59:30 +0300</pubDate>
             <sparkle:version>4</sparkle:version>
@@ -25,17 +39,6 @@
             <sparkle:deltas>
                 <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate3-2.delta" sparkle:deltaFrom="2" length="3140882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="6Zks6eg77aN7RoXydy93ZsdtiCpAeC3QaaEhgV/+Wcc6qYi7bNQjfmDc5uBbEoko2o6Hyaj7hf5wmasBN6aKCw=="/>
                 <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate3-1.delta" sparkle:deltaFrom="1" length="3142674" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eBakGJRYwjBOCxwN24uvUTEcHh1gojko/yB9cv3bMHTS1l/GEkHQXMWhmtQlIl26B9z5RQkHanlQZggI3bH4BA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.1</title>
-            <pubDate>Tue, 02 Jun 2026 18:04:00 +0300</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate-1.1.dmg" length="7110875" type="application/octet-stream" sparkle:edSignature="0Bi8CRsKdPwNtPv+Az9/C55Z3MU6dEaQQCY4IJwkWmWWRjcT7zhdOQzWVgyUhw8/zv3q8bJ+LhH1W+bXhyt8CQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate2-1.delta" sparkle:deltaFrom="1" length="13254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="swJMsnEMDrzASVUQpw7PmrlWFE1ggvCWhJb83CRZSrr6HPChEs2FzvpZ+G9drwfPQOSzPLt7eQNuQ2QgLz6xAA=="/>
             </sparkle:deltas>
         </item>
     </channel>
