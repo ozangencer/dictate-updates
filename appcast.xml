@@ -3,6 +3,21 @@
     <channel>
         <title>Dictate</title>
         <item>
+            <title>1.8.0</title>
+            <pubDate>Mon, 03 Aug 2026 16:39:50 +0300</pubDate>
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate-1.8.0.dmg" length="11238125" type="application/octet-stream" sparkle:edSignature="81vWG/rrTIJhpvBNCayvWfS/JqAcQCj/LemvyJL2GqItNVezLKz6pDIyhkirElbB4aItiuM83oTOiChJYViEBg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate14-13.delta" sparkle:deltaFrom="13" length="928630" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="+uIV2Yg6AKoi11Ua7JmXEDOYhG92+kG5NN1isz5U7aW9/AI84zEdMvC9yMoMf0jMtN6v9E2+cXKHd988Pk/SDQ=="/>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate14-12.delta" sparkle:deltaFrom="12" length="1040486" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZUEy21oResng17GxYMZH8sI33b9CL4roxpBvymCmFGrbm0ACW74sjr2PCso+K+ClAlqW6MXN+HFZSZYdZW8NCQ=="/>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate14-11.delta" sparkle:deltaFrom="11" length="1107978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="aqSAGBRJfmHnHCjYWuDChMzKuX8aVTSKxw7Ic2qWryYiQ58/ss9zjoFggM5Sagc7YVtsZRjRl2uJAInPrWz4Bw=="/>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate14-9.delta" sparkle:deltaFrom="9" length="1352978" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="P3wY2h18fug8NgJWBSAeeti+kLkjSw1MkVhOTkvSesFxmYmwqYx/6Twn9wQHZzxU7aQ9RiffcB6zCTgtJajBDg=="/>
+                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate14-8.delta" sparkle:deltaFrom="8" length="1464402" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UHw45iQWai09YaM19p0EJSQB4xvYGe9oqZqPrbdspnnpLhdviFvTtIPLMU7radKghv6PYXJbGVMw4tb84KhaDA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.7.2</title>
             <pubDate>Sun, 02 Aug 2026 11:56:29 +0300</pubDate>
             <sparkle:version>13</sparkle:version>
@@ -30,21 +45,6 @@
                 <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate12-8.delta" sparkle:deltaFrom="8" length="1340014" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="UPOftP3h1jArI/copmyrUzcNyefl9Qqrz7mE3IkP9+CvAJZ3YWcl5uvmlEAyv9rjIyehWFCjcXSa4TN1T+jeDw=="/>
                 <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate12-7.delta" sparkle:deltaFrom="7" length="1617494" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fkqqf6sUUwxbfPfZdLzcvkFDb+nkhH+GI0bplQgFMlzk4VuGKzJjIQi3CxWzNaSakIc0vkcLS8etYGMkTV3FBg=="/>
                 <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate12-6.delta" sparkle:deltaFrom="6" length="1657042" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="mb8F3M7ZKG6eQ6wJmVSV/5HJhj66t1s3xnSKKk2Lh/fxmIlCKRntpKQ2gBZEzg/VRCMAnKIzwTsopThj+XrGBQ=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.7.0</title>
-            <pubDate>Sat, 01 Aug 2026 16:40:36 +0300</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate-1.7.0.dmg" length="11139760" type="application/octet-stream" sparkle:edSignature="5b4yMBwLNPz6C8AKzLT362ekcMUQ+FGZ3u/pXry5V8N4RXTbsWp2Bn1z+ZuWzhrDuWb4sCbcpILDv8ej9eH0Aw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate11-9.delta" sparkle:deltaFrom="9" length="1185186" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="YXeUfLo90goaJ/asZiajNvntR4m/NSzzTvic3ISjQe9Pmh00jke8JpuXVGkXP5cZOSGOapIWKJDLoTZ50+l3Cw=="/>
-                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate11-8.delta" sparkle:deltaFrom="8" length="1322658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1E0ClqXo2qkhxi5u+7/PO0K4sNF8MObVrQMMZ1EPxqLFSy1kI5WmE+53LMEkuRnFZ2KntwwonCaR1MszimmxBg=="/>
-                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate11-7.delta" sparkle:deltaFrom="7" length="1606398" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rXdnd51yj84P7ppdVcBBxatKTnwCY/AznWWRpyMz+h6bwnt3oRVBERJJ3dAQSFxkJ5LauQ0qlg+Lk3xCS662Bg=="/>
-                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate11-6.delta" sparkle:deltaFrom="6" length="1647514" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iyl1OIcmra/SQlekBRYHaBEE3aZ1JwTptH0sp+vNaEM831sWduM5NqY45ekilneq+xeOv2f6BHVDifYz8L6uDA=="/>
-                <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate11-5.delta" sparkle:deltaFrom="5" length="1640666" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="1DLtbABu49t7MRAPQ18LxW1a54xeY+k8HplF8/LBgC2oyZMdV0UIKoToGJRfzhBq12DQqaznVIN+f+z/4H5cAg=="/>
             </sparkle:deltas>
         </item>
     </channel>
