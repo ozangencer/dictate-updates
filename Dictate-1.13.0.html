@@ -1,0 +1,42 @@
+<!doctype html>
+<meta charset="utf-8">
+<style>
+  body { font: 13px -apple-system, system-ui, sans-serif; line-height: 1.5; margin: 0; color: #1d1d1f; }
+  h3 { font-size: 13px; margin: 14px 0 6px; }
+  h3:first-child { margin-top: 0; }
+  ul { margin: 0; padding-left: 18px; }
+  li { margin-bottom: 5px; }
+  code { font-family: ui-monospace, SFMono-Regular, Menlo, monospace; font-size: 12px; }
+  @media (prefers-color-scheme: dark) { body { color: #f5f5f7; } }
+</style>
+
+<h3>Fixed</h3>
+<ul>
+  <li><b>Downloading a Whisper model failed instantly.</b> Two entries in the model
+      catalogue named folders that do not exist in the WhisperKit model repository, so
+      pressing Download on the recommended model threw an error before a single byte was
+      fetched. The ids are corrected, the listed sizes are now what is actually
+      downloaded, and a failed download says so on screen instead of failing silently.</li>
+  <li><b>A meeting could be filed and titled after the wrong calendar event.</b> The
+      start time was worked out by subtracting the audio's length from the file's
+      timestamp, which is only right when the recording captured audio the whole time. A
+      call whose microphone died mid-meeting was filed two hours late and named after an
+      unrelated appointment. The start is now read from the recording itself.</li>
+  <li><b>A recording nothing was reaching kept running.</b> When every capture source has
+      delivered silence for fifteen minutes, the recording now stops and saves what it
+      has. This is not a time limit — long meetings are unaffected.</li>
+</ul>
+
+<h3>Improved</h3>
+<ul>
+  <li><b>Save a transcript in several formats at once.</b> Plain text, subtitles, JSON and
+      meeting minutes are four renderings of one transcription, so the Output Format list
+      is now multiple choice. Only meeting minutes costs anything, and it costs the same
+      whether it is saved alone or beside the other three.</li>
+  <li><b>Speaker names can be reused.</b> Diarization often splits one person across two
+      labels, and giving both the same name is how they are merged — but the name was
+      removed from the suggestion list once it had been used. Used names now appear under
+      "Already assigned" and can be picked again.</li>
+  <li><b>Merged speakers now have merged segments.</b> Naming two labels as the same
+      person used to leave their lines separate in the saved transcript.</li>
+</ul>

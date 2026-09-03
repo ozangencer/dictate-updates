@@ -16,6 +16,7 @@
                 <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate19-14.delta" sparkle:deltaFrom="14" length="3569610" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lUDyvs8qDwEEpXroSSOV2qkmtMny/9jj+kvEj0yXPq148Ybac7jJzE0z09pX+zz+/KzksVrnZrjVrXRtuEhiCw=="/>
                 <enclosure url="https://ozangencer.github.io/dictate-updates/Dictate19-13.delta" sparkle:deltaFrom="13" length="3585330" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977840" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="813SfaRmtmZRZFeibbqzEuQAjgqeqhkvB6a2G9bmD3y95IjTy4Bjgt+q9P5XZVETSAyx86frsoDcMDBA1dHzCw=="/>
             </sparkle:deltas>
+            <sparkle:releaseNotesLink>https://ozangencer.github.io/dictate-updates/Dictate-1.13.0.html</sparkle:releaseNotesLink>
         </item>
         <item>
             <title>1.11.0</title>
